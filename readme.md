@@ -36,3 +36,6 @@ python3 saltkey.py
 - Always backup your WordPress files before running
 - Ensure proper file permissions
 - Run from WordPress root directory
+
+# License 📄
+This project is licensed under the GNU General Public License v2.0
